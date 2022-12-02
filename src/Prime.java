@@ -1,5 +1,5 @@
 public class Prime {
- public boolean isPrime(int number) {
+public boolean isPrime(int number) {
 	 
  boolean prime = false; 
  for(int i=2; i<=number/2; ++i) {
